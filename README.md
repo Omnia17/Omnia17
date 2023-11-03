@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: amani.salem@esprit.tn
+- Linkedin : <a href="https://www.linkedin.com/in/amani-salem-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taief hilali" height="30" width="40" /></a>
+
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Omnia17)](https://git.io/streak-stats)
 

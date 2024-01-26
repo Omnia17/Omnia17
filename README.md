@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Angular
 -->
 
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me: amani.salem@esprit.tn
+
+- 🔭 I’m currently working on my graduation project  
+- 📫 How to reach me: Amani.Salem@esprit.tn
 - Linkedin : <a href="https://www.linkedin.com/in/amani-salem-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taief hilali" height="30" width="40" /></a>
 
   

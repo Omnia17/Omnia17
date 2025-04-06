@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 Currently job hunting  
-- 📫 How to reach me: Amani.Salem@esprit.tn
+- 📫 How to reach me: amanisalem.online@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/amani-salem-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taief hilali" height="30" width="40" /></a>
 
   
